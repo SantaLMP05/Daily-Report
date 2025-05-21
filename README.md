@@ -22,7 +22,7 @@
   - View Submenu.
 ![image](https://github.com/user-attachments/assets/07671c6f-da5e-48a3-b4cd-33f45528b1fd)
 
-### DataTable Enhancements
+### 4. DataTable Enhancements
  - Implemented alternating row striping (gray for odd/even rows) to improve readability and visual clarity.
 ![image](https://github.com/user-attachments/assets/7185b3d1-02ca-42f1-be89-16f81776f7e9)
 
