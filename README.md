@@ -20,4 +20,5 @@
   - Selected tab index.
   - Expansion logic.
   - View updates.
-![image](https://github.com/user-attachments/assets/d8387028-d107-4592-b48c-d582e5b8d254)
+![image](https://github.com/user-attachments/assets/07671c6f-da5e-48a3-b4cd-33f45528b1fd)
+
