@@ -3,7 +3,8 @@
 # ✅ Development Report
 **Date:** May 21, 2025  
 **Module:** UI Navigation & State Management
-## ✅ Changes Made
+
+## ✅ Changes Made for Desktop screen
 
 ### 1. Removed `TabBar`
 - Replaced the traditional top `TabBar` with a cleaner layout.
@@ -22,3 +23,8 @@
   - View updates.
 ![image](https://github.com/user-attachments/assets/07671c6f-da5e-48a3-b4cd-33f45528b1fd)
 
+## ✅ Changes Made for Mobile screen
+
+### 1. Add Icon to close
+- added each screen closed button and made it visisble only if it is mobile size
+ 
