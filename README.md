@@ -32,5 +32,6 @@
 ### 1. Add Icon to close
 - added each screen closed button and made it visisble only if it is mobile size
 - Popup fullscreen page
+
  ![image](https://github.com/user-attachments/assets/2be3ba40-ce7c-42ad-a969-065059142227)
 
