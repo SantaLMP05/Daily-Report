@@ -19,7 +19,7 @@
 - Centralized state management for:
   - Selected tab index.
   - Expansion logic.
-  - View updates.
+  - View Submenu.
 ![image](https://github.com/user-attachments/assets/07671c6f-da5e-48a3-b4cd-33f45528b1fd)
 
 ## ✅ Changes Made for Mobile screen
