@@ -64,6 +64,11 @@
 
 ![image](https://github.com/user-attachments/assets/9307fbcc-2a9c-4878-82d8-152e81bb46a4) ![image](https://github.com/user-attachments/assets/4c63adad-f033-46ca-8cdf-76ec9f079c25)
 
+- added two new sidemenucontroller method
+
+  ![image](https://github.com/user-attachments/assets/8d5a4fc3-2636-4a77-9b05-8b6c890b6e0f)
+
+
 
 
 
