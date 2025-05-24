@@ -43,8 +43,9 @@
 **Date:** May 24, 2025  
 **Module:** UI Navigation Changes
 
-### 1. Side nav sub menu design changed
-- Chnaged from tab to row widget
-- 
+### 1. Side Navigation Submenu Design Updated
+- Changed layout from Tab to Row widget
+- Researched various navigation UI designs for reference and inspiration
+
 ![image](https://github.com/user-attachments/assets/3138a9cf-d8b4-4c17-8b65-f285b9ba61a5)
 
