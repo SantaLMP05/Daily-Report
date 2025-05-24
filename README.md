@@ -57,6 +57,16 @@
 
 ![image](https://github.com/user-attachments/assets/58a58fd1-7866-41e3-8655-626eb83ec218)
 
+- Revert to previous design and made change
+- check if the width is < 1000, and swicth the widget to icon only
+- chnage the selected tab color to black
+- Wrap the item tab to ExpandTile and on expanded color to light grey.
+
+![image](https://github.com/user-attachments/assets/9307fbcc-2a9c-4878-82d8-152e81bb46a4) ![image](https://github.com/user-attachments/assets/4c63adad-f033-46ca-8cdf-76ec9f079c25)
+
+
+
+
 
 
 
