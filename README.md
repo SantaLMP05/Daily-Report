@@ -49,3 +49,14 @@
 
 ![image](https://github.com/user-attachments/assets/3138a9cf-d8b4-4c17-8b65-f285b9ba61a5)
 
+-Redesign Side Menu for desktop
+
+![image](https://github.com/user-attachments/assets/991023b6-5062-4dd3-b32a-cf6b07b81635)
+
+-Redesign Side Menu for Mobile and Tablet
+
+![image](https://github.com/user-attachments/assets/58a58fd1-7866-41e3-8655-626eb83ec218)
+
+
+
+
