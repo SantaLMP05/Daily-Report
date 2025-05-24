@@ -63,6 +63,7 @@
 - Wrap the item tab to ExpandTile and on expanded color to light grey.
 
 ![image](https://github.com/user-attachments/assets/9307fbcc-2a9c-4878-82d8-152e81bb46a4) ![image](https://github.com/user-attachments/assets/4c63adad-f033-46ca-8cdf-76ec9f079c25) ![image](https://github.com/user-attachments/assets/34ece997-d865-4133-bf21-0d9ed84dbb4c)
+![image](https://github.com/user-attachments/assets/ccebb054-55df-4520-9131-1ce437865f51)
 
 
 - added two new sidemenucontroller method
