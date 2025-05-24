@@ -57,7 +57,7 @@
 
 ![image](https://github.com/user-attachments/assets/58a58fd1-7866-41e3-8655-626eb83ec218)
 
-### 2. Revert to previous design as per the feedback 
+### 2. Revert to previous design as per the feedback and changes
 - check if the width is < 1000, and swicth the widget to icon only
 - chnage the selected tab color to black
 - Wrap the item tab to ExpandTile and on expanded color to light grey.
