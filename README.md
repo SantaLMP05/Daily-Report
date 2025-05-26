@@ -4,7 +4,7 @@
 **Date:** May 21, 2025  
 **Module:** UI Navigation & State Management
 
-## ✅ Changes Made for Desktop screen
+# ✅ Changes Made for Desktop screen
 
 ### 1. Removed `TabBar`
 - Replaced the traditional top `TabBar` with a cleaner layout.
@@ -30,7 +30,7 @@
 
 
 
-## ✅ Changes Made for Mobile screen
+# ✅ Changes Made for Mobile screen
 
 ### 1. Add Icon to close
 - added each screen closed button and made it visisble only if it is mobile size
@@ -70,7 +70,9 @@
 
   ![image](https://github.com/user-attachments/assets/8d5a4fc3-2636-4a77-9b05-8b6c890b6e0f)
 
-  ## Adding Colapsible functionality
+# ✅ Adding Colapsible functionality
+  **Date:** May 26, 2025  
+  **Module:** UI Navigation Changes
   - Implemented a circular toggle button to control the collapsible panel.
   - Integrated a controller method and set up a listener to respond to state changes (open/close) using the provider.
     
