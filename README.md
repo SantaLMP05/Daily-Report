@@ -70,6 +70,12 @@
 
   ![image](https://github.com/user-attachments/assets/8d5a4fc3-2636-4a77-9b05-8b6c890b6e0f)
 
+  ## Side Nav Updates
+  - on expand and colapse
+![image](https://github.com/user-attachments/assets/29097913-8588-4251-9473-ebd56bb8a95c)![image](https://github.com/user-attachments/assets/5f43d957-c8a5-46fe-80dc-9acd0bc908fe)
+
+
+
 
 
 
