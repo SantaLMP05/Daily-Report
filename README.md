@@ -88,10 +88,12 @@
 
 ![image](https://github.com/user-attachments/assets/12573ed8-dc82-43e3-9f0b-575ce110ab02)  ![overlay](https://github.com/user-attachments/assets/bee68312-3ea6-4bf7-81b5-55c8b4e7633e)
 
+### 3. Revert to previous design as per the feedback
+  - Removed the Overlay implementation for submenu display.
+  - Introduced a SubMenuController to handle submenu open/close logic.
+  - Refactored submenu behavior to align with the original inline rendering approach.
 
-
-
-
+![image](https://github.com/user-attachments/assets/0a1faba0-4a8c-4045-92ca-8cb3bb7d6bb8) ![image](https://github.com/user-attachments/assets/6772368d-c437-4184-a0d7-55fd393d1423)
 
 
 
