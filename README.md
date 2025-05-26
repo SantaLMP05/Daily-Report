@@ -72,7 +72,8 @@
 
   ## Side Nav Updates
   - on expand and colapse
-![image](https://github.com/user-attachments/assets/29097913-8588-4251-9473-ebd56bb8a95c)![image](https://github.com/user-attachments/assets/5f43d957-c8a5-46fe-80dc-9acd0bc908fe)
+  - 
+![image](https://github.com/user-attachments/assets/29097913-8588-4251-9473-ebd56bb8a95c) ![image](https://github.com/user-attachments/assets/5f43d957-c8a5-46fe-80dc-9acd0bc908fe)
 
 
 
