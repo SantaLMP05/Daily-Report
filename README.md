@@ -76,11 +76,16 @@
 
 ## ✅ Adding Colapsible functionality
 
+### 1. Side nav colapsible
   - Implemented a circular toggle button to control the collapsible panel.
   - Integrated a controller method and set up a listener to respond to state changes (open/close) using the provider.
     
 ![image](https://github.com/user-attachments/assets/29097913-8588-4251-9473-ebd56bb8a95c) ![image](https://github.com/user-attachments/assets/5f43d957-c8a5-46fe-80dc-9acd0bc908fe)![isopen](https://github.com/user-attachments/assets/90726b2a-3632-4ff4-a195-294efff0488b)
 
+### 2. Sub Menu Overlay
+  - implemented overlap on sub menu in colapsed.
+
+![image](https://github.com/user-attachments/assets/12573ed8-dc82-43e3-9f0b-575ce110ab02)
 
 
 
