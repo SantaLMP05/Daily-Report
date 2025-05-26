@@ -79,7 +79,8 @@
   - Implemented a circular toggle button to control the collapsible panel.
   - Integrated a controller method and set up a listener to respond to state changes (open/close) using the provider.
     
-![image](https://github.com/user-attachments/assets/29097913-8588-4251-9473-ebd56bb8a95c) ![image](https://github.com/user-attachments/assets/5f43d957-c8a5-46fe-80dc-9acd0bc908fe)
+![image](https://github.com/user-attachments/assets/29097913-8588-4251-9473-ebd56bb8a95c) ![image](https://github.com/user-attachments/assets/5f43d957-c8a5-46fe-80dc-9acd0bc908fe)![isopen](https://github.com/user-attachments/assets/90726b2a-3632-4ff4-a195-294efff0488b)
+
 
 
 
