@@ -84,8 +84,10 @@
 
 ### 2. Sub Menu Overlay
   - implemented overlap on sub menu in colapsed.
+  - added overlay toggle method
 
-![image](https://github.com/user-attachments/assets/12573ed8-dc82-43e3-9f0b-575ce110ab02)
+![image](https://github.com/user-attachments/assets/12573ed8-dc82-43e3-9f0b-575ce110ab02)  ![overlay](https://github.com/user-attachments/assets/bee68312-3ea6-4bf7-81b5-55c8b4e7633e)
+
 
 
 
