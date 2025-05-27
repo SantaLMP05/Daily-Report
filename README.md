@@ -107,9 +107,9 @@
 - fnSelectMenu()	Sets main menu selection and optional submenu
 - subMenuProductIndex()	Targets a submenu directly using index
  
-![varialble](https://github.com/user-attachments/assets/faed1a03-72f2-4050-8009-e2f2451795ed)
-![collapsible_logic](https://github.com/user-attachments/assets/dcec4f51-62bf-4a7e-a8a3-0fa3c00adcfc)
-![arrgument](https://github.com/user-attachments/assets/7d6b1eb6-bfdf-4fe7-bf8b-35922989d75d)
-![arrgument 2](https://github.com/user-attachments/assets/e8f28f95-133f-4e5d-951f-36a65ca4d480)
+<img src="https://github.com/user-attachments/assets/faed1a03-72f2-4050-8009-e2f2451795ed" width="600" />
+<img src="https://github.com/user-attachments/assets/dcec4f51-62bf-4a7e-a8a3-0fa3c00adcfc" width="600" />
+<img src="https://github.com/user-attachments/assets/7d6b1eb6-bfdf-4fe7-bf8b-35922989d75d" width="600" />
+<img src="https://github.com/user-attachments/assets/e8f28f95-133f-4e5d-951f-36a65ca4d480" width="600" />
 
 
