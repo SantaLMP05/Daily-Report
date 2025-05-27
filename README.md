@@ -110,6 +110,10 @@
 ![collapsible_logic](https://github.com/user-attachments/assets/fcbb4c34-9c3b-49d5-8a88-6440d905de34)
 ![image](https://github.com/user-attachments/assets/63b0a335-a8b7-4604-af60-d23f1ef74ee0) ![image](https://github.com/user-attachments/assets/9233ba27-fdaa-4c30-9a49-cbcac72214f6)
 
+### 2. Common header 
+- Add common header to all the the pages and fix to top
+
+![image](https://github.com/user-attachments/assets/9de0b3a2-d369-4fa9-aab8-91c59429b11b)
 
 
 
