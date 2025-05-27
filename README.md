@@ -116,8 +116,10 @@
 ![image](https://github.com/user-attachments/assets/9de0b3a2-d369-4fa9-aab8-91c59429b11b)
 
 - Side Sub Menu page navigation
-- 
-![image](https://github.com/user-attachments/assets/2547e30b-1798-4a9e-a985-edd29ce18dba)
+-  header background color matched with side nav and breadcrumb sub menu color to grey.
+-  unwanted blue color scrollbar removed
+![image](https://github.com/user-attachments/assets/2547e30b-1798-4a9e-a985-edd29ce18dba) ![image](https://github.com/user-attachments/assets/3aa80997-a93b-45f5-9e5d-0318d3a20cae)
+
 
 
 
