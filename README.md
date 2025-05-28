@@ -132,6 +132,9 @@
 - Researched API integration options for POS systems.
 - Sent an official email to Zomato regarding POS integration.
 - Email has been forwarded to the development team for follow-up.
+ 
+![image](https://github.com/user-attachments/assets/8a05bd9e-928b-47aa-ba7b-6e41a5e4c461)
+
 
 ### 2. Common header changes as per feedback
 - Removed repetitive code to improve maintainability.
