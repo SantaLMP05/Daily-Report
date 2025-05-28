@@ -124,6 +124,24 @@
 
 ![image](https://github.com/user-attachments/assets/2547e30b-1798-4a9e-a985-edd29ce18dba) ![image](https://github.com/user-attachments/assets/3aa80997-a93b-45f5-9e5d-0318d3a20cae)
 
+# ✅ Development Report
+**Date:** May 27, 2025  
+**Module:** Changes as per the feedback
+
+### 1. Zomato API
+- Researched API integration options for POS systems.
+- Sent an official email to Zomato regarding POS integration.
+- Email has been forwarded to the development team for follow-up.
+
+### 2. Common header changes as per feedback
+- Removed repetitive code to improve maintainability.
+- Eliminated the unused icon list.
+- Side menu hover animation issue identified but not yet resolved.
+- Updated the scaffold background color to a lighter shade and applied a card layout to the body for better UI consistency.
+
+![image](https://github.com/user-attachments/assets/c8f6300b-572e-4f11-9316-90fb7564e7e5)
+
+
 
 
 
