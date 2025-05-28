@@ -142,10 +142,12 @@
 - Side menu hover animation issue identified but not yet resolved.
 - Updated the scaffold background color to a lighter shade and applied a card layout to the body for better UI consistency.
 
-![image](https://github.com/user-attachments/assets/c8f6300b-572e-4f11-9316-90fb7564e7e5)
+![image](https://github.com/user-attachments/assets/c8f6300b-572e-4f11-9316-90fb7564e7e5) ![image](https://github.com/user-attachments/assets/7e4a366c-f708-4dde-919c-a2baba5e4687)
 
 
-
+### 3. Code Integration
+- Replace the side nav to new Code
+- Replace Dashboard layout
 
 
 
