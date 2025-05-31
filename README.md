@@ -153,42 +153,34 @@
 **Date:**: May 31, 2025
 **Module:** Flutter PDF Invoice Dialog Redesign
 
-📝 Overview
+### 📝 Overview
 The invoice dialog has been redesigned for improved layout, styling, and functionality. Supporting files and integration updates were made across the app.
 
-📂 New Files
-dialog.dart: Contains the new PdfDialog widget.
+### 📂 New Files
+- dialog.dart: Contains the new PdfDialog widget.
 
-pdf.controller.dart: Defines InvoiceProvider for managing invoice state.
+- pdf.controller.dart: Defines InvoiceProvider for managing invoice state.
 
-⚙️ Key Changes
-main.dart: Added ChangeNotifierProvider for InvoiceProvider.
+### ⚙️ Key Changes
+- main.dart: Added ChangeNotifierProvider for InvoiceProvider.
 
-salescreate.dart: Integrated PdfDialog (notably at line 753).
+- salescreate.dart: Integrated PdfDialog (notably at line 753).
 
-🧱 Key Components
-PdfDialog:
+### 🧱 Key Components
+#### PdfDialog:
+- Split-screen layout (invoice details & controls).
+- Formatted to A4 size.
+#### InvoiceScreen:
+- Improved layout: headers, company/customer info, items, tax, totals, declaration.
+- Uses InvoiceProvider for dynamic updates.
 
-Split-screen layout (invoice details & controls).
+### ⚠️ Issues & Suggestions
+ - Logo Not Loading: Check image URL or use local asset.
+ - Error Handling: Add validation and error guards.
+ - Refactoring: Extract reusable widgets.
+ - Responsiveness: Use MediaQuery for adaptive UI.
 
-Formatted to A4 size.
-
-InvoiceScreen:
-
-Improved layout: headers, company/customer info, items, tax, totals, declaration.
-
-Uses InvoiceProvider for dynamic updates.
-
-⚠️ Issues & Suggestions
-Logo Not Loading: Check image URL or use local asset.
-
-Error Handling: Add validation and error guards.
-
-Refactoring: Extract reusable widgets.
-
-Responsiveness: Use MediaQuery for adaptive UI.
-
-✅ Conclusion
+### ✅ Conclusion
 The redesign significantly enhances the invoice dialog. With minor improvements in image handling, code structure, and error resilience, the module will be production-ready.
 
 
