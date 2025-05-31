@@ -180,6 +180,9 @@ The invoice dialog has been redesigned for improved layout, styling, and functio
  - Refactoring: Extract reusable widgets.
  - Responsiveness: Use MediaQuery for adaptive UI.
 
+![image](https://github.com/user-attachments/assets/b778a666-892d-4079-a1d6-d54c1c6dd0b7)
+
+
 ### ✅ Conclusion
 The redesign significantly enhances the invoice dialog. With minor improvements in image handling, code structure, and error resilience, the module will be production-ready.
 
