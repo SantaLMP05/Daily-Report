@@ -209,6 +209,6 @@ Issue on graph
 
 
 ### ✅ Conclusion
-Nest scrollable has remove and fixed
+The dashboard was optimized for responsiveness and scroll issues were resolved by simplifying the layout. Chart rendering was fixed with defined heights, and a modular LicenseCheck widget was added for better license management. Overall, the UI is now cleaner and more user-friendly across devices.
 
 
