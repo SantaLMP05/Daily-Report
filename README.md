@@ -194,3 +194,8 @@ The redesign significantly enhances the invoice dialog. With minor improvements 
 ### Provider
 - add provider for update received amount
 
+### Dashboard Changes
+- LayoutDashboard.dart -> remove safearea,SingleChildScrollView and PageHeader
+![1](https://github.com/user-attachments/assets/92f0724a-ab45-49d5-8f6a-646fdda22ac0) to ![1 1](https://github.com/user-attachments/assets/8dde395f-7444-4bec-990a-455b220d0ab6)
+
+
