@@ -208,10 +208,6 @@ Issue on graph
 ![image](https://github.com/user-attachments/assets/cfe72a4e-53ba-4fb4-932e-bb32e3e8e3bf)
 
 
-
-
-
-
 ### ✅ Conclusion
 Nest scrollable has remove and fixed
 
