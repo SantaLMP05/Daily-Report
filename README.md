@@ -149,7 +149,7 @@
 - Replace the side nav to new Code
 - Replace Dashboard layout
 
-✅ Development Summary
+# ✅ Development Summary
 **Date:**: May 31, 2025
 **Module:** Flutter PDF Invoice Dialog Redesign
 
@@ -187,7 +187,7 @@ The invoice dialog has been redesigned for improved layout, styling, and functio
 The redesign significantly enhances the invoice dialog. With minor improvements in image handling, code structure, and error resilience, the module will be production-ready.
 
 
-✅ Development Summary
+# ✅ Development Summary
 **Date:**: JUNE 2, 2025
 **Module:** PDF Invoice
 
@@ -196,10 +196,10 @@ The redesign significantly enhances the invoice dialog. With minor improvements 
 
 ### 2. Dashboard Key Changes
 
+- **Layoutdashboard** -> Removed SafeArea, SingleChildScrollView, and PageHeader due to scroll and layout issues.
 - **Responsive Layout** -> Implemented using LayoutBuilder to dynamically adjust the number of columns based on screen width.
 - **LicenseCheck Widget** -> Added a separate widget (LicenseCheck) for license-related UI and logic to improve modularity.
 - **Chart Height** -> Set to a fixed value (450.0) for consistency across different screen sizes.
-- **Layoutdashboard** -> Removed SafeArea, SingleChildScrollView, and PageHeader due to scroll and layout issues.
 - **Scrollbar** -> resolve rendering issues with overflow and nested scrolling on larger screens.
 
 ![1](https://github.com/user-attachments/assets/92f0724a-ab45-49d5-8f6a-646fdda22ac0) to ![1 1](https://github.com/user-attachments/assets/8dde395f-7444-4bec-990a-455b220d0ab6)
