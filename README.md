@@ -150,7 +150,7 @@
 - Replace Dashboard layout
 
 # ✅ Development Summary
-**Date:**: May 31, 2025
+**Date:** May 31, 2025
 **Module:** Flutter PDF Invoice Dialog Redesign
 
 ### 📝 Overview
@@ -188,7 +188,7 @@ The redesign significantly enhances the invoice dialog. With minor improvements 
 
 
 # ✅ Development Summary
-**Date:**: JUNE 2, 2025
+**Date:** JUNE 2, 2025
 **Module:** PDF Invoice
 
 ### 1. Provider
