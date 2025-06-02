@@ -191,16 +191,25 @@ The redesign significantly enhances the invoice dialog. With minor improvements 
 **Date:**: JUNE 2, 2025
 **Module:** PDF Invoice
 
-### Provider
+### 1. Provider
 - Added provider method to update received amount dynamically via onChanged in TextField.
 
-### Dashboard Changes
-- Removed SafeArea, SingleChildScrollView, and PageHeader due to scroll and layout issues.
-- Purpose: To simplify structure and resolve rendering issues with overflow and nested scrolling on larger screens.
+### 2. Dashboard Key Changes
+
+- **Responsive Layout** -> Implemented using LayoutBuilder to dynamically adjust the number of columns based on screen width.
+- **LicenseCheck Widget** -> Added a separate widget (LicenseCheck) for license-related UI and logic to improve modularity.
+- **Chart Height** -> Set to a fixed value (450.0) for consistency across different screen sizes.
+- **Layoutdashboard** -> Removed SafeArea, SingleChildScrollView, and PageHeader due to scroll and layout issues.
+- **Scrollbar** -> resolve rendering issues with overflow and nested scrolling on larger screens.
+
 ![1](https://github.com/user-attachments/assets/92f0724a-ab45-49d5-8f6a-646fdda22ac0) to ![1 1](https://github.com/user-attachments/assets/8dde395f-7444-4bec-990a-455b220d0ab6)
 
 Issue on graph
 ![image](https://github.com/user-attachments/assets/cfe72a4e-53ba-4fb4-932e-bb32e3e8e3bf)
+
+
+
+
 
 
 ### ✅ Conclusion
