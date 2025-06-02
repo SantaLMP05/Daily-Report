@@ -187,3 +187,10 @@ The invoice dialog has been redesigned for improved layout, styling, and functio
 The redesign significantly enhances the invoice dialog. With minor improvements in image handling, code structure, and error resilience, the module will be production-ready.
 
 
+✅ Development Summary
+**Date:**: JUNE 2, 2025
+**Module:** PDF Invoice
+
+### Provider
+- add provider for update received amount
+
