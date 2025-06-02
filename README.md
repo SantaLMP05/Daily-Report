@@ -206,6 +206,8 @@ The redesign significantly enhances the invoice dialog. With minor improvements 
 
 Issue on graph
 ![image](https://github.com/user-attachments/assets/cfe72a4e-53ba-4fb4-932e-bb32e3e8e3bf)
+![image](https://github.com/user-attachments/assets/27079e59-982d-4adc-ae8d-09e24f4b0d2b)
+
 
 
 ### ✅ Conclusion
