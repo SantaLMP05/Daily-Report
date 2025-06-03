@@ -213,4 +213,12 @@ Issue on graph
 ### ✅ Conclusion
 The dashboard was optimized for responsiveness and scroll issues were resolved by simplifying the layout. Chart rendering was fixed with defined heights, and a modular LicenseCheck widget was added for better license management. Overall, the UI is now cleaner and more user-friendly across devices.
 
+# ✅ Development Report
+**Date:** June 3, 2025  
+**Module:** Dashboard card hide/show content
+
+### Refactored
+ - The DashboardCardsWidget has been refactored to improve its structure and functionality.
+ - Visibility settings are fetched from the database and applied to the UI. Only visible items are rendered.
+
 
