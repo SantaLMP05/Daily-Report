@@ -220,5 +220,7 @@ The dashboard was optimized for responsiveness and scroll issues were resolved b
 ### Refactored
  - The DashboardCardsWidget has been refactored to improve its structure and functionality.
  - Visibility settings are fetched from the database and applied to the UI. Only visible items are rendered.
+### integrated Code and dashboard side setting (Incomplete)
+ - Hide/Show 
 
 
