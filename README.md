@@ -232,6 +232,7 @@ The dashboard was optimized for responsiveness and scroll issues were resolved b
  - Implemented group-wise settings for dashboard items to control visibility (hide/show) dynamically.
  - Integrated the new settings code with the latest codebase.
  - Added group-based controls for the "About" section in the sidebar navigation and its visibility via controller.
+ - Made About Fields responsive using LayoutBuilder and Wrap widgets for flexible field arrangement across screen sizes.
  - Refactored focus management:
    - Removed all RawKeyboardListener usage.
    - Introduced FocusTraversalGroup for structured focus navigation using the Tab key.
