@@ -241,7 +241,7 @@ The dashboard was optimized for responsiveness and scroll issues were resolved b
 
 ![image](https://github.com/user-attachments/assets/5eeec398-e373-40d9-9744-483115428344)
 
-### ✅ Conclusion Summary:
+### ✅ Conclusion:
 This update enhances the dashboard settings module with structured, group-wise visibility controls and improved UI responsiveness. Focus management is now cleaner and more intuitive using FocusTraversalGroup, eliminating the need for RawKeyboardListener. These changes collectively improve maintainability, user experience, and adaptability across devices.
 
 
