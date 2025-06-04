@@ -224,3 +224,15 @@ The dashboard was optimized for responsiveness and scroll issues were resolved b
  - Hide/Show 
 
 
+# ✅ Development Report
+**Date:** June 4, 2025  
+**Module:** Dashboard Setting Contents
+
+### Setup and insert new rows data in db 
+ - Implemented group-wise settings for dashboard items to control visibility (hide/show) dynamically.
+ - Integrated the new settings code with the latest codebase.
+ - Added group-based controls for the "About" section in the sidebar navigation and its visibility via controller.
+ - Refactored focus management:
+   - Removed all RawKeyboardListener usage.
+   - Introduced FocusTraversalGroup for structured focus navigation using the Tab key.
+
