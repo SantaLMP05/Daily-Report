@@ -257,23 +257,33 @@ The provided Flutter code has undergone significant changes to improve its struc
 #### 1. Size and Layout Management
 Before: Inline size calculations within LayoutBuilder without clear separation of concerns.    
 After: Extracted size calculations into a variable crossAxisCount for better readability and reusability. Added clear width calculations based on screen size.
+
 #### 2. Widget Structure and Organization
 Before: The use of Wrap for arranging children without explicit alignment and spacing.    
 After: Replaced Wrap with a series of Container widgets with explicit padding and alignment, providing more control over the layout. This change results in a more structured and predictable UI behavior.
+
 #### 3. Conditional Rendering
 Before: Used nested ternary operators for conditional rendering, which can be difficult to read and maintain.   
 After: Simplified conditional rendering using if statements, making the code more readable and easier to understand.
+
 #### 4. Image Handling
 Before: Image handling was done using Image.memory with a fixed size, which might not be optimal for all scenarios.    
 After: Improved image handling by using Image.network for remote images and Image.memory for local images, with better size management. This change enhances the flexibility and performance of image rendering.
+
 #### 5. Text and Input Fields
 Before: Text and input fields were scattered throughout the code without a clear structure, making it harder to manage and style them consistently.   
 After: Organized text and input fields into separate widgets, making it easier to manage and style them consistently. This change improves the maintainability and visual consistency of the UI.
+
 #### 6. Buttons and Actions
 Before: Buttons and actions were defined inline, making it hard to manage complex interactions and reuse code.    
 After: Extracted buttons and actions into separate widgets and functions, improving modularity and reusability. This change makes the code more organized and easier to maintain.
+
 #### 7. Form Widget
 Before: The form widget was not clearly defined, and the structure was inconsistent, leading to potential issues in managing form fields and validations.    
 After: Clearly defined the form widget with a consistent structure, making it easier to manage form fields and validations. This change enhances the robustness and usability of the form.
+
+<img src="[https://example.com/before-image.png](https://github.com/user-attachments/assets/5abf6f23-e2ff-4478-83e6-9aa17d0a4f77)" alt="Before Image" width="45%" style="float: left; margin-right: 10px;"> <img src="[https://example.com/before-image.png](https://github.com/user-attachments/assets/5abf6f23-e2ff-4478-83e6-9aa17d0a4f77)" alt="Before Image" width="45%" style="float: left; margin-right: 10px;">
+
+
 ### ✅ Conclusion
 The refactored code demonstrates significant improvements in terms of structure, readability, and maintainability. By modularizing the widgets, simplifying conditional rendering, and improving image and text handling, the code becomes more robust and easier to extend. The use of descriptive variable names and comments further enhances the readability of the code. These changes will benefit future development and maintenance of the application by making it more organized and efficient.
