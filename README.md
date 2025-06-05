@@ -285,17 +285,15 @@ After: Clearly defined the form widget with a consistent structure, making it ea
 <img src="https://github.com/user-attachments/assets/5abf6f23-e2ff-4478-83e6-9aa17d0a4f77" alt="Before Image" width="45%" style="float: left; margin-right: 10px;"> <img src="https://github.com/user-attachments/assets/5abf6f23-e2ff-4478-83e6-9aa17d0a4f77](https://github.com/user-attachments/assets/736762b7-d8e6-4e8a-950d-c7aa042b2a96" alt="Before Image" width="45%" style="float: left; margin-right: 10px;">
 
 
-#### Before
-
-<img src="https://via.placeholder.com/350x150" alt="Before Layout" width="45%" style="float: left; margin-right: 10px;">
-##### Before Layout
+### Before
+<img src="https://example.com/before-layout.png" alt="Before Layout" width="45%" style="float: left; margin-right: 10px;">
+*Before: Inline size calculations within LayoutBuilder.*
 
 ### After
+<img src="https://example.com/after-layout.png" alt="After Layout" width="45%" style="float: left;">
+*After: Extracted size calculations into a variable for better readability.*
 
-<img src="https://via.placeholder.com/350x150" alt="After Layout" width="45%" style="float: left;">
-##### After Layout
-
-...
+---
 
 
 
