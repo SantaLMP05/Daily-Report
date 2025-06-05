@@ -282,7 +282,21 @@ After: Extracted buttons and actions into separate widgets and functions, improv
 Before: The form widget was not clearly defined, and the structure was inconsistent, leading to potential issues in managing form fields and validations.    
 After: Clearly defined the form widget with a consistent structure, making it easier to manage form fields and validations. This change enhances the robustness and usability of the form.
 
-<img src="https://github.com/user-attachments/assets/5abf6f23-e2ff-4478-83e6-9aa17d0a4f77" alt="Before Image" width="45%" style="float: left; margin-right: 10px;"> <img src="https://github.com/user-attachments/assets/5abf6f23-e2ff-4478-83e6-9aa17d0a4f77" alt="Before Image" width="45%" style="float: left; margin-right: 10px;">
+<img src="https://github.com/user-attachments/assets/5abf6f23-e2ff-4478-83e6-9aa17d0a4f77" alt="Before Image" width="45%" style="float: left; margin-right: 10px;"> <img src="https://github.com/user-attachments/assets/5abf6f23-e2ff-4478-83e6-9aa17d0a4f77](https://github.com/user-attachments/assets/736762b7-d8e6-4e8a-950d-c7aa042b2a96" alt="Before Image" width="45%" style="float: left; margin-right: 10px;">
+
+
+#### Before
+
+<img src="https://via.placeholder.com/350x150" alt="Before Layout" width="45%" style="float: left; margin-right: 10px;">
+##### Before Layout
+
+### After
+
+<img src="https://via.placeholder.com/350x150" alt="After Layout" width="45%" style="float: left;">
+##### After Layout
+
+...
+
 
 
 ### ✅ Conclusion
