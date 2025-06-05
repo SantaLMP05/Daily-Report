@@ -282,11 +282,23 @@ After: Extracted buttons and actions into separate widgets and functions, improv
 Before: The form widget was not clearly defined, and the structure was inconsistent, leading to potential issues in managing form fields and validations.    
 After: Clearly defined the form widget with a consistent structure, making it easier to manage form fields and validations. This change enhances the robustness and usability of the form.
 
+### Form 
 <img src="https://github.com/user-attachments/assets/5abf6f23-e2ff-4478-83e6-9aa17d0a4f77" alt="Before Image" width="45%" style="float: left; margin-right: 10px;"> <img src="https://github.com/user-attachments/assets/5e191eac-7e67-4e2b-9f15-d469f274a036" alt="After Image" width="45%" style="float: left; margin-right: 10px;">
 
+### Column 1
+<img src="https://github.com/user-attachments/assets/e98d843a-9c13-4cec-be21-82f83abddcf6" alt="Before Image" width="45%" style="float: left; margin-right: 10px;"> <img src="https://github.com/user-attachments/assets/ea01f6ce-11d4-4dac-bfb6-d9a24aa9b855" alt="After Image" width="45%" style="float: left; margin-right: 10px;">
+
+### Column 2
+<img src="https://github.com/user-attachments/assets/ec62d1d3-82d9-463b-bafa-6f597ac31f4d" alt="Before Image" width="45%" style="float: left; margin-right: 10px;"> <img src="https://github.com/user-attachments/assets/bd9f181e-7ebe-40c1-9ce6-cabb567d2978" alt="After Image" width="45%" style="float: left; margin-right: 10px;">
+
+### Column 3
+<img src="https://github.com/user-attachments/assets/eb9e52a0-59c7-4e80-936b-a9138a9a692d" alt="Before Image" width="45%" style="float: left; margin-right: 10px;"> <img src="https://github.com/user-attachments/assets/7096ee0e-dcff-4be6-98ed-585f171b0ced" alt="After Image" width="45%" style="float: left; margin-right: 10px;">
+
+### Column 4
+<img src="https://github.com/user-attachments/assets/3a38d4ed-7901-4e20-ac6a-fdd171872cc5" alt="Before Image" width="45%" style="float: left; margin-right: 10px;"> 
 
 
-![form after](https://github.com/user-attachments/assets/5e191eac-7e67-4e2b-9f15-d469f274a036)
+
 
 
 ### ✅ Conclusion
