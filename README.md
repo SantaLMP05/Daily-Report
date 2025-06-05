@@ -255,7 +255,7 @@ This update enhances the dashboard settings module with structured, group-wise v
 The provided Flutter code has undergone significant changes to improve its structure, functionality, and readability. Here is a detailed comparison of the before and after code:
 
 #### 1. Size and Layout Management
-Before: Inline size calculations within LayoutBuilder without clear separation of concerns.
+Before: Inline size calculations within LayoutBuilder without clear separation of concerns.    
 After: Extracted size calculations into a variable crossAxisCount for better readability and reusability. Added clear width calculations based on screen size.
 #### 2. Widget Structure and Organization
 Before: The use of Wrap for arranging children without explicit alignment and spacing.
