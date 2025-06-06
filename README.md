@@ -311,3 +311,31 @@ After: Clearly defined the form widget with a consistent structure, making it ea
 
 ### ✅ Conclusion
 The refactored code demonstrates significant improvements in terms of structure, readability, and maintainability. By modularizing the widgets, simplifying conditional rendering, and improving image and text handling, the code becomes more robust and easier to extend. The use of descriptive variable names and comments further enhances the readability of the code. These changes will benefit future development and maintenance of the application by making it more organized and efficient.
+
+#✅ Development Report
+**Date:** June 6, 2025    
+**Module:** About Form Functionality   
+
+The About form has been significantly enhanced to support a flexible and dynamic user experience. This includes intelligent focus management, dynamic visibility of fields based on conditions, and an improved user interface for dropdown selection.
+
+### 🔧 Key Features Implemented 
+- Fields in the form are conditionally shown or hidden based on user input or business logic.
+- Replaced standard dropdowns with DropdownMenu widgets using enableSearch: true.
+- Custom logic checks if each field’s value is empty or not.
+
+```dart
+for (var [key, node] in fields) {
+  if (key == "") {
+    FocusScope.of(context).requestFocus(node);
+    break;
+  }
+  final value = _commonProvider.getFieldValue(key, "aboutus");
+  if (value == null || value.toString().trim().isEmpty) {
+    FocusScope.of(context).requestFocus(node);
+    break;
+  }
+}
+```
+
+### 📝 Short Summary
+The About form now supports dynamic field visibility, smart focus navigation, and searchable dropdowns with a clean, underline-only UI. The logic is optimized for better readability and seamless user experience.
